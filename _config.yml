@@ -1,5 +1,9 @@
-theme: jekyll-theme-minimal
-title: Emeline's homepage
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
+
+title: Temporary
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis iaculis condimentum odio, ut ullamcorper leo commodo et. In vitae arcu luctus, interdum ante eget, malesuada odio. Donec lobortis justo quis purus condimentum pretium. Nunc congue, augue euismod sollicitudin pretium, diam nunc dapibus purus, in condimentum metus nisl ac massa. Pellentesque lobortis est nec aliquam imperdiet. Donec metus tortor, vestibulum vitae urna quis, auctor viverra quam. Nam consectetur nisl eget metus interdum eleifend.
+
+
+
